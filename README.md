@@ -20,7 +20,7 @@
 
 ### I am Daniel Díaz
 - I'm a Computer Science Engineer.
-- Master's student at Cinvestav GDL :mexico:.
+- I'm Master's student at Cinvestav GDL :mexico:.
 - I'm currently working with ML and NLP.
 
 <!--
