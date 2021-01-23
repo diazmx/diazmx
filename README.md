@@ -1,5 +1,5 @@
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" />
+## Happy but not too much.
 
 
 <!--
